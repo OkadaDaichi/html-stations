@@ -3,6 +3,7 @@ body{
 }
 .header {
     background-color: #ffffff;
+    height:10px;
 }
 .card {
     background-color:#ffffff;
@@ -23,4 +24,5 @@ img {
 }
 .footer{
     background-color: #ffffff;
+    height:10px;
 }
