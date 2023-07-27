@@ -5,10 +5,12 @@ header {
     background-color: #ffffff;
     height:10px;
 }
-.card {
+.card-container{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.card {
     background-color:#ffffff;
     padding:5px;
 }
