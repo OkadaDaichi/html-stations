@@ -1,7 +1,7 @@
 body{
     background-color: #C4C4C4;
 }
-.header {
+header {
     background-color: #ffffff;
     height:10px;
 }
@@ -22,7 +22,7 @@ img {
     height:182px;
     margin-bottom:10px;
 }
-.footer {
+footer {
     background-color: #ffffff;
     height:10px;
 }
