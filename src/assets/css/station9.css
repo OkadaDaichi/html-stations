@@ -4,7 +4,7 @@ body{
 header {
     background-color: #ffffff;
     height:10px;
-
+}
 .card-container{
     display: flex;
     justify-content: center;
